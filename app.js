@@ -1,1 +1,1 @@
-console.lop("ioedeveloper says hello world!")
+console.log("ioedeveloper says hello world!")
